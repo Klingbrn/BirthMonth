@@ -16,7 +16,7 @@ public class BirthMonth {
             }
             else
             {
-                System.out.println(trash + " is not an input please restart and try again:");
+                System.out.println(birthMonth + " is not an input please restart and try again:");
             }
         }
          else
